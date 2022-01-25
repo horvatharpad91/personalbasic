@@ -1,0 +1,174 @@
+body {
+  color: #04293A;
+  margin: 0;
+  margin-bottom: 0;
+  padding: 0;
+  border: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+/************FONT******************/
+
+h1 {
+font-size: 5.625rem;
+margin: 10px auto 20px auto;
+font-family: 'Oswald';
+color: #FF7F3F;
+
+}
+
+h2 {
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color: #FF7F3F;
+font-weight: normal;
+padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #FF7F3F;
+}
+
+p {
+line-height: 2;
+
+}
+
+hr {
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;
+}
+
+
+a {
+color: #1199E;
+font-family: 'Montserrat', sans-serif;
+margin-right: 20px;
+text-decoration: none;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  bottom: 300px;
+
+
+}
+.top-container {
+  background-color: #334257;
+  position: relative;
+  padding-top: 40px;
+}
+
+.a {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.skills-img {
+width: 25%;
+float:left;
+margin-right: 30px;
+}
+
+.chilli-img {
+width: 25%;
+float:right;
+margin-left: 30px;
+}
+
+.me-img {
+margin-top: 100px;
+}
+
+.intro {
+  width: 25%;
+  margin: 20px auto 20px auto;
+}
+
+.dottedline {
+
+}
+
+
+  .button {
+  	background:linear-gradient(to bottom, #FF7F3F 5%, #FF7F3F 100%);
+  	background-color:#FF7F3F;
+  	border-radius:11px;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#04293A;
+  	font-family:Verdana;
+  	font-size:16px;
+  	padding:15px 18px;
+  	text-decoration:none;
+  	text-shadow:0px 0px 0px #04293A;
+    margin-bottom: 20px;
+  }
+  .myButton:hover {
+  	background:linear-gradient(to bottom, #FF7F3F 5%, #FF7F3F 100%);
+  	background-color:#FF7F3F;
+  }
+  .myButton:active {
+  	position:relative;
+  	top:1px;
+  }
+
+
+.bottom-container {
+  background-color: #04293A;
+  padding-top: 20px;
+  margin-bottom: 0;
+  }
+
+.footer-link {
+color: #FF7F3F;
+vertical-align: top;
+  }
+
+.name {
+color: #FF7F3F;
+margin-bottom: 0px;
+padding-bottom: 20px;
+
+}
+.contact-message {
+  width: 40px;
+  margin: 140px auto 160px;
+}
+
+.bball-img {
+  width: 22.5%;
+  margin-bottom: 110px;
+}
+
+
+.me-img {
+  border-radius: 10%;
+}
+
+
+.me-img:hover {
+  content: url('Images/árpádwithsg.png');
+
+}
